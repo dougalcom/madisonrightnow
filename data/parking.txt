@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <script type="text/javascript" src="/ruxitagentjs_ICA2SVfqr_10141180419161112.js" data-dtconfig="rid=RID_2141706286|rpid=309476332|domain=cityofmadison.com|reportUrl=/rb_bf72186bfd|featureHash=ICA2SVfqr|lastModification=1526871551696|dtVersion=10141180419161112|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA2SVfqr_10141180419161112.js"></script><link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.cityofmadison.com/sites/default/files/template/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta about="/parking-utility" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Parking Utility" />
+<link rel="canonical" href="/parking-utility/garages-lots/current-hourly-parking-availability" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/21421" />
+  <title>Current Hourly Parking Availability | Parking Utility, City of Madison, Wisconsin</title>
+  <style>
+@import url("http://www.cityofmadison.com/modules/system/system.base.css?pabgzy");
+</style>
+<style>
+@import url("http://www.cityofmadison.com/sites/all/modules/ldap/ldap_user/ldap_user.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/calendar/css/calendar_multiday.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/date/date_api/date.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pabgzy");
+@import url("http://www.cityofmadison.com/modules/field/theme/field.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/logintoboggan/logintoboggan.css?pabgzy");
+@import url("http://www.cityofmadison.com/modules/node/node.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/relation_add/relation_add.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/video_filter/video_filter.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/views/css/views.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/ckeditor/css/ckeditor.css?pabgzy");
+</style>
+<style>
+@import url("http://www.cityofmadison.com/sites/all/modules/ctools/css/ctools.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/gmap/gmap.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/default/files/honeypot/honeypot.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/modules/webform/css/webform.css?pabgzy");
+@import url("http://www.cityofmadison.com/sites/all/libraries/fontawesome/css/font-awesome.css?pabgzy");
+</style>
+<style>
+@import url("http://www.cityofmadison.com/sites/all/themes/cityofmadison/css/city-styles.css?pabgzy");
+</style>
+
+<!--[if lt IE 9]>
+<style>
+@import url("http://www.cityofmadison.com/sites/all/themes/cityofmadison/css/less-than-IE9.css?pabgzy");
+</style>
+<![endif]-->
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="http://www.cityofmadison.com/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1"></script>
+<script src="http://www.cityofmadison.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.cityofmadison.com/misc/drupal.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/google_analytics/googleanalytics.js?pabgzy"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-6999863-6", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="http://www.cityofmadison.com/sites/all/modules/webform/js/webform.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/field_group/field_group.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/gmap.js?pabgzy"></script>
+<script src="http://maps.googleapis.com/maps/api/js?v=3&amp;language=en&amp;sensor=false&amp;libraries=geometry&amp;key=AIzaSyCmZzMukOxFnAw60BqhX1Iz9V5dfCW5Qeg"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/icon.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/marker.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/highlight.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/poly.js?pabgzy"></script>
+<script src="/sites/default/files/js/gmap_markers.js"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/markerloader_static.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/modules/gmap/js/gmap_marker.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/themes/cityofmadison/bootstrap/js/bootstrap.min.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/themes/cityofmadison/js/cityofmadison.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/themes/cityofmadison/js/intro.js?pabgzy"></script>
+<script src="http://www.cityofmadison.com/sites/all/themes/cityofmadison/js/tours.js?pabgzy"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cityofmadison","theme_token":"L6pHZZRKHATKYAM9fEjrSX0rNcJB-ebPNk2nfjHt4pc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/gmap\/js\/gmap.js":1,"http:\/\/maps.googleapis.com\/maps\/api\/js?v=3\u0026language=en\u0026sensor=false\u0026libraries=geometry\u0026key=AIzaSyCmZzMukOxFnAw60BqhX1Iz9V5dfCW5Qeg":1,"sites\/all\/modules\/gmap\/js\/icon.js":1,"sites\/all\/modules\/gmap\/js\/marker.js":1,"sites\/all\/modules\/gmap\/js\/highlight.js":1,"sites\/all\/modules\/gmap\/js\/poly.js":1,"\/sites\/default\/files\/js\/gmap_markers.js":1,"sites\/all\/modules\/gmap\/js\/markerloader_static.js":1,"sites\/all\/modules\/gmap\/js\/gmap_marker.js":1,"sites\/all\/themes\/cityofmadison\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/cityofmadison\/js\/cityofmadison.js":1,"sites\/all\/themes\/cityofmadison\/js\/intro.js":1,"sites\/all\/themes\/cityofmadison\/js\/tours.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/relation_add\/relation_add.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/gmap\/gmap.css":1,"sites\/default\/files\/honeypot\/honeypot.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/cityofmadison\/css\/city-styles.css":1,"sites\/all\/themes\/cityofmadison\/css\/print-styles.css":1,"sites\/all\/themes\/cityofmadison\/css\/less-than-IE9.css":1}},"isSuperUser":false,"isAdminUser":false,"shortcodeDocumentation":"\u003Ch2\u003EShortcode Documentation\u003C\/h2\u003E\n\u003Ch4\u003EBlock \u0026amp; Views visibility\u003C\/h4\u003E\n\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EExample: \u003C\/strong\u003E\u003Cbr \/\u003E\n\tHide - Display on certain pages: {\u0022path\u0022:[\u0022fire\/blog\/*\u0022,\u0022~fire\/blog\/chief\u0022]}\u003Cbr \/\u003E\n\tHide - Display on certain query Strings: {\u0022query_string\u0022:[\u0022agency\u0022,\u0022~type\u0022]}\u003C\/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EExplanation\u003C\/strong\u003E\u003Cbr \/\u003E\n\t\u0022fire\/blog\/*\u0022 = Shortcode will be displayed on any pages under fire\/blog\u003Cbr \/\u003E\n\t\u0022~fire\/blog\/chief\u0022 = The ~ sign is to exclude fire\/blog\/chief when the shortcode is displayed on all pages under fire\/blog\u003C\/li\u003E\n\u003C\/ul\u003E\u003Ch4\u003EAdditional Options\u003C\/h4\u003E\n\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EExample: \u003C\/strong\u003E {\u0022header\u0022:0,\u0022footer\u0022:0,\u0022pager\u0022:0,\u0022empty\u0022:0}\u003C\/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EExplanation\u003C\/strong\u003E\u003Cbr \/\u003E\n\t\u0022header\u0022:0 = When views has header, it will display header by default, value 0 is to hide it.\u003Cbr \/\u003E\n\t\u0022footer\u0022:0 = When views has footer, it will display footer by default, value 0 is to hide it.\u003Cbr \/\u003E\n\t\u0022pager\u0022:0 = When views has pager, it will display pager bydefault, value 0 is to hide it.\u003Cbr \/\u003E\n\t\u0022empty\u0022:0 = When views is empty and has empty message, it will display empty message by default, value 0 is to hide it.\u003C\/li\u003E\n\u003C\/ul\u003E\u003Ch4\u003EBlock: Menu Flexible Arguments\u003C\/h4\u003E\n\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EExample: \u003C\/strong\u003E {\u0022title_link\u0022:1,\u0022level\u0022:3,\u0022follow\u0022:\u0022active\u0022,\u0022depth\u0022:2,\u0022expanded\u0022:0,\u0022parent_mlid\u0022:1234}\u003C\/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EExplanation\u003C\/strong\u003E\u003Cbr \/\u003E\n\t\u0022title_link\u0022:0 (boolean) Specifies if the title should be rendered as a link or a simple string, default to 0.\u003Cbr \/\u003E\n\t\u0022level\u0022:1 (int) The starting level of the tree, default to 2.\u003Cbr \/\u003E\n\t\u0022follow\u0022:\u0022active\u0022 (string) Specifies if the starting level should follow the active menu item. Should be set to 0, \u0027active\u0027 or \u0027child\u0027. .\u003Cbr \/\u003E\n\t\u0022depth\u0022:2 (int) The maximum depth the tree should contain, relative to the starting level default to 0 for unlimited depth.\u003Cbr \/\u003E\n\t\u0022expanded\u0022:0 (boolean) Specifies if the entire tree be expanded or not, default to 1 .\u003Cbr \/\u003E\n\t\u0022parent_mlid\u0022:1234 (int) The mlid of the item that should root the tree, default to 0 to use the menu\u0027s root.\u003C\/li\u003E\n\u003C\/ul\u003E","video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/video_filter"},"urlIsAjaxTrusted":{"\/parking-utility\/garages-lots\/current-hourly-parking-availability":true},"gmap":{"auto1map":{"width":"100%","height":"400px","zoom":11,"maxzoom":"16","controltype":"Small","pancontrol":1,"streetviewcontrol":0,"align":"None","maptype":"Map","mtc":"standard","baselayers":{"Map":1,"Satellite":1,"Hybrid":1},"styles":{"line_default":["0000ff","5","45","",""],"poly_default":["000000","3","25","ff0000","45"],"highlight_color":"ff0000"},"line_colors":["#00cc00","#ff0000","#0000ff"],"behavior":{"locpick":false,"nodrag":0,"nokeyboard":1,"nomousezoom":0,"nocontzoom":0,"autozoom":true,"dynmarkers":0,"overview":0,"collapsehack":0,"scale":0,"extramarkerevents":false,"clickableshapes":false,"highlight":0},"markermode":"1","id":"auto1map","markers":[{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/blair-lot\u0022\u003EBlair Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          410 S. Blair St.  \u003C\/div\u003E","latitude":"43.075048","longitude":"-89.375798","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/brayton-lot\u0022\u003EBrayton Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          1 S. Butler St.  \u003C\/div\u003E","latitude":"43.076728","longitude":"-89.380209","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/buckeye-lot\u0022\u003EBuckeye Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          214 W. Gorham St.  \u003C\/div\u003E","latitude":"43.075376","longitude":"-89.391754","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/capitol-square-north-garage\u0022\u003ECapitol Square North Garage\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          218 E. Mifflin St.  \u003C\/div\u003E","latitude":"43.077627","longitude":"-89.383215","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/evergreen-lot\u0022\u003EEvergreen Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          1802 Monroe St.  \u003C\/div\u003E","latitude":"43.065151","longitude":"-89.417432","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/government-east-garage\u0022\u003EGovernment East Garage\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          110 E. Wilson St.  \u003C\/div\u003E","latitude":"43.073728","longitude":"-89.380079","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/overture-center-garage\u0022\u003EOverture Center Garage\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          318 W. Mifflin St.  \u003C\/div\u003E","latitude":"43.073351","longitude":"-89.389361","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/state-street-campus-garage\u0022\u003EState Street Campus Garage\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          430 N. Frances St.  \u003C\/div\u003E","latitude":"43.074067","longitude":"-89.396241","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/state-street-capitol-garage\u0022\u003EState Street Capitol Garage\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          214 N. Carroll St.  \u003C\/div\u003E","latitude":"43.075462","longitude":"-89.388065","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/wilson-lot\u0022\u003EWilson Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          499 E. Wilson St.  \u003C\/div\u003E","latitude":"43.075357","longitude":"-89.376656","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}},{"text":"\u003Cdiv class=\u0022gmap-popup\u0022\u003E  \r\n  \u003Cdiv\u003E        \u003Cstrong\u003E\u003Ca href=\u0022\/parking-utility\/garages-lots\/wingra-lot\u0022\u003EWingra Lot\u003C\/a\u003E\u003C\/strong\u003E  \u003C\/div\u003E  \r\n          1701 Monroe St.  \u003C\/div\u003E","latitude":"43.066294","longitude":"-89.415106","title":"","markername":"map_marker_green","offset":"","opts":{"title":""}}],"longitude":"-89.37139801025393","latitude":"43.08561545682778"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|docx|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xlsx|xml|z|zip"},"field_group":{"html5":"block"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  <!-- Include Typekit webfont kit - ND -->
+  <script src="https://use.typekit.net/xnl1tzf.js"></script>
+  <script>try{Typekit.load({ async: false });}catch(e){}</script>
+</head>
+<body class="garages-lots-current-hourly-parking-availability html not-front not-logged-in no-sidebars page-node page-node- page-node-21421 node-type-page parking-utility">
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<!--googleoff: all-->
+<!-- Legacy Header -->
+<header class="navbar navbar-inverse" id="nav-global">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed no-print" aria-controls="navbar" aria-expanded="false" data-target="#navbar-global" data-toggle="collapse" type="button">
+        <span class="h4">Search Menu</span>
+        <span class="sr-only">Toggle navigation</span>
+		<span class="bars">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+      <a id="site-name" class="h5 navbar-brand pull-left" href="/" title="City of Madison, Wisconsin">City of Madison</a>
+    </div>
+
+    <nav role="navigation" id="navbar-global" class="navbar-collapse collapse no-print">
+      <ul class="navbar-nav menu nav"><li class="first expanded dropdown"><a href="/accounts" title="" class="dropdown-toggle" data-toggle="dropdown">Accounts <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.cityofmadison.com/accounts" title="">All Accounts</a></li>
+<li class="leaf"><a href="https://my.cityofmadison.com/" title="">My Account</a></li>
+<li class="leaf"><a href="https://www.cityofmadison.com/epayment/" title="">ePayments</a></li>
+<li class="leaf"><a href="https://mywater.cityofmadison.com" title="">Water Customer Care</a></li>
+<li class="leaf"><a href="https://www.governmentjobs.com/careers/MadisonWi/applications/submitted" title="">Employment</a></li>
+<li class="last leaf"><a href="https://elam.cityofmadison.com/citizenaccess" title="">Licenses &amp; Permits</a></li>
+</ul></li>
+<li class="leaf"><a href="/services" title="">Services</a></li>
+<li class="leaf"><a href="/jobs" title="">Jobs</a></li>
+<li class="expanded dropdown"><a href="//www.cityofmadison.com/agencies" title="" class="dropdown-toggle" data-toggle="dropdown">Agencies <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="//www.cityofmadison.com/agencies" title="">All Agencies</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/assessor/" title="">Assessor</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/attorney" title="">Attorney</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/bi" title="">Building Inspection</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dcr" title="">Civil Rights</a></li>
+<li class="leaf"><a href="/clerk" title="">Clerk</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/council" title="">Common Council</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/communitydevelopment" title="">Community Development</a></li>
+<li class="leaf"><a href="/development-services-center" title="">Development Services Center</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/economicdevelopment" title="">Economic Development</a></li>
+<li class="leaf"><a href="/employee-assistance-program" title="">Employee Assistance Program</a></li>
+<li class="leaf"><a href="/engineering" title="">Engineering</a></li>
+<li class="leaf"><a href="/finance" title="">Finance</a></li>
+<li class="leaf"><a href="/fire" title="">Fire</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/parks/golf" title="">Golf</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/parks/pool" title="">Goodman Pool</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/housing" title="">Housing Authority</a></li>
+<li class="leaf"><a href="/human-resources" title="">Human Resources</a></li>
+<li class="leaf"><a href="/information-technology" title="">Information Technology</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/citychannel" title="">Madison City Channel</a></li>
+<li class="leaf"><a href="http://www.madisonpubliclibrary.org" title="">Madison Public Library</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/senior-center" title="">Madison Senior Center</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/mayor" title="">Mayor&#039;s Office</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/metro" title="">Metro Transit</a></li>
+<li class="leaf"><a href="https://www.mononaterrace.com/" title="">Monona Terrace</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/municipalcourt" title="">Municipal Court</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/economicdevelopment/office-of-business-resources/223" title="">Office of Business Resources</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/economicdevelopment/real-estate-services-/401" title="">Office of Real Estate Services</a></li>
+<li class="leaf"><a href="http://www.olbrich.org" title="">Olbrich Botanical Gardens</a></li>
+<li class="leaf"><a href="/parking-utility" title="">Parking Utility</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/parks" title="">Parks</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced/planning" title="">Planning</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/dpced" title="">Planning, Community &amp; Economic Development</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/police" title="">Police</a></li>
+<li class="leaf"><a href="//www.publichealthmdc.com/" title="">Public Health Madison &amp; Dane County</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/business/pw" title="">Public Works</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/streets" title="">Streets &amp; Recycling</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/trafficengineering" title="">Traffic Engineering</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/treasurer" title="">Treasurer</a></li>
+<li class="leaf"><a href="//www.cityofmadison.com/parks/wpcrc" title="">Warner Park Community Recreation Center</a></li>
+<li class="last leaf"><a href="/water" title="">Water Utility</a></li>
+</ul></li>
+<li class="leaf"><a href="//data-cityofmadison.opendata.arcgis.com/" title="">Data</a></li>
+<li class="last expanded dropdown"><a href="/contact" title="" class="dropdown-toggle" data-toggle="dropdown">Contact <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.cityofmadison.com/mayor/" title="">Mayor</a></li>
+<li class="leaf"><a href="http://www.cityofmadison.com/council/contact/" title="">City Council</a></li>
+<li class="last leaf"><a href="http://www.cityofmadison.com/contact/" title="">City Staff &amp; Agencies</a></li>
+</ul></li>
+</ul>      <div class="region region-navigation navbar-form navbar-right"><form class="form-search content-search" action="/parking-utility/garages-lots/current-hourly-parking-availability" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="sr-only">Search</span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-mfKQsQoxhzf84busKKJw-8cKPnfSgReB3mmXRFlchRk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+    </nav>
+
+
+  </div>
+</header>
+<!--googleon: all-->
+
+<header class="agency-header">
+  <div class="agency-banner" role="banner">
+    <div class="container">
+      <div class="views-display"><div class="view view-agency-information view-id-agency_information view-display-id-agency_info_banner_block_new view-dom-id-b63d62dc3ad8054cbc7966f5a8425837">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <div class="agency-logo"><a href="/parking-utility" title="Return to Parking Utility Homepage"><img typeof="foaf:Image" class="img-responsive" src="http://www.cityofmadison.com/sites/default/files/logos/images/parking_utility-white.png" width="612" height="612" alt="Parking Utility logo, copyright City of Madison" /></a></div>
+<div class="agency-information">
+<h1 class="agency-name"><a href="/parking-utility" title="Return to Parking Utility Homepage">Parking Utility</a></h1>
+<h5 class="agency-lead"><ul><li>David C. Dryer, P.E., Traffic Engineer &amp; Parking Utility Manager</li>
+<li>Sabrina Tolley, Assistant Parking Utility Manager</li>
+</ul></h5>
+
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>    </div>
+  </div>
+  <div class="agency-navigation-container">
+    <div class="agency-navigation affix-auto affix-top">
+      <div class="container">
+        <nav class="navbar navbar-default"><!-- affix-auto affix-top -->
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#agency-navigation" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <!--<a class="navbar-brand active" href="/"><span class="glyphicon glyphicon-home"></span><span class="sr-only">Home</span></a>-->
+            </div>
+
+            <div class="collapse navbar-collapse" id="agency-navigation">
+              <div class="region region-subnav row"><ul class="navbar-nav menu nav"><li class="first leaf home"><a href="/parking-utility" title="">Home</a></li>
+<li class="leaf special-event-parking"><a href="/parking-utility/special-events">Special Event Parking</a></li>
+<li class="expanded active-trail active garages-lots"><a href="/parking-utility/garages-lots" class="active-trail">Garages &amp; Lots</a></li>
+<li class="collapsed permits"><a href="/parking-utility/permits">Permits</a></li>
+<li class="collapsed street-parking"><a href="/parking-utility/street-parking">Street Parking</a></li>
+<li class="leaf accessibility"><a href="/parking-utility/accessibility">Accessibility</a></li>
+<li class="collapsed espa-ol"><a href="/parking-utility/espanol">Español</a></li>
+<li class="collapsed about"><a href="/parking-utility/about">About</a></li>
+<li class="last leaf contact"><a href="/parking-utility/contact">Contact</a></li>
+</ul></div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="main-container com-page right_sidebar">
+  <div class="alert-group" id="alerts-full-width"><div class="view view-announcement view-id-announcement view-display-id-announcement_by_agency view-dom-id-67a2d39a8b940576c2cda62734e1f39c">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>  <div class="container-fluid">
+
+    <header role="banner" id="page-header">
+      
+          </header> <!-- /#page-header -->
+
+    <div class="row">
+      <section class="col-sm-12">
+                <div class="breadcrumb-wrapper">
+        <div class="view view-page view-id-page view-display-id-translated_pages view-dom-id-07d92622b7e06b3703568de2ae8fa5ec">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <span><div class="languages">
+  <div id="language-list-wrapper"></div></div></span>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        <ol class="breadcrumb"><li><a href="/">City of Madison</a></li><li><a href="/parking-utility">Parking Utility</a></li><li><a href="/parking-utility/garages-lots">Garages &amp; Lots</a></li><li>Current Hourly Parking Availability</li></ol>        </div>
+        <a id="main-content"></a>
+                <h2 class="page-header">Current Hourly Parking Availability</h2>                                                      </section>
+    </div>
+  </div>
+
+  <section class="page--city-content">
+        <div class="">  <div class="region region-content">
+    <section id="block-system-main" class="block block-system">
+
+      
+  <div class="node node-page view-mode-full">
+  
+  
+  <div class="container-fluid">
+
+    
+    <div class="row">
+      <div class="col-md-8">
+                  <div><div class="views-display"><div class="view view-garages view-id-garages view-display-id-parking_availability table-responsive table-plain-headings table-color-primary table-vertical-middle view-dom-id-c4c312c6a6b01d279f1fbf63ebab9ae9">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-3 table"  summary="Current Parking Availability displays a list of garages and lots, parking spaces available and directions to each facility.">
+        <thead>
+    <tr>
+              <th class="views-field views-field-title"  scope="col">
+          Facility        </th>
+              <th  scope="col">
+          Vacant Stalls        </th>
+              <th class="views-field views-field-field-garages-address"  scope="col">
+                  </th>
+          </tr>
+    </thead>
+    <tbody>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/brayton-lot">Brayton Lot</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=9"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=1+S.+Butler+St.+Madison+WI+" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/capitol-square-north-garage">Capitol Square North Garage</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=6"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=218+E.+Mifflin+St.+Madison+WI+53703" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/government-east-garage">Government East Garage</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=3"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=110+E.+Wilson+St.+Madison+WI+53703" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/overture-center-garage">Overture Center Garage</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=1"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=318+W.+Mifflin+St.+Madison+WI+53703" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/state-street-campus-garage">State Street Campus Garage</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=5"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=430+N.+Frances+St.+Madison+WI+53703" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+  
+        <tr >
+                      <th scope="row"class="views-field views-field-title" >
+          <a href="/parking-utility/garages-lots/state-street-capitol-garage">State Street Capitol Garage</a>        </th>
+                              <td >
+          <div class="ajax-render" data-manipulation="replace" data-path="parking-utility/number-available" data-query="garage_id=2"></div>        </td>
+                              <td class="views-field views-field-field-garages-address" >
+          <ul class="list-inline directions-google"><li><a href="https://maps.google.com?daddr=214+N.+Carroll+St.+Madison+WI+53703" class="btn btn-primary"><span class="cityicons cityicons-map-with-marker"></span>Directions</a></li></ul>        </td>
+                  </tr>
+    </tbody>
+</table>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="ajax-render" data-path="parking-utility/vacant-date-created"></div>
+<div class="text-right"><a class="btn btn-outline-primary" href="http://www.cityofmadison.com/parking-utility/data/ramp-availability.json">Get JSON format data</a></div>    </div>
+  
+  
+</div></div>
+
+<p><strong><em>Except Brayton Lot, data is not available for lots.</em></strong></p>
+
+<p><em>Refresh this page for the most up-to-date vacant stall counts.</em></p>
+
+<p><em>Vacant stall counts are approximate and can fluctuate quickly.</em></p>
+
+<p><em>Stalls for Persons with Disabilities, metered stalls and motorcycle stalls are not included in the count of vacant stalls.</em></p>
+<div class="views-display"><div class="view view-garages view-id-garages view-display-id-parking_locator_map pseudo-table view-dom-id-66f498e6e031da5daab9d33dc717362d">
+        
+  
+  
+      <div class="view-content">
+      <div style="width: 100%; height: 400px;" id="gmap-auto1map-gmap0" class="gmap-control gmap-gmap gmap gmap-map gmap-auto1map-gmap"><noscript>Javascript is required to view this map.</noscript></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div>
+              </div>
+
+      <div class="col-md-4 sidebar">
+                  <div><h3 class="menu-tree-heading"><a href="/parking-utility/garages-lots" class="active-trail">Garages &amp; Lots</a></h3><div class="menu-block-wrapper">
+  <ul class="list"><li class="first expanded menu-mlid-6874 facilities"><a href="/parking-utility/garages-lots">Facilities</a><a href="#section-6874" data-toggle="collapse" class="pull-right expand-icon-collapsed" ></a><div class="collapse" id="section-6874"><ul class="list"><li class="first leaf menu-mlid-6878"><a href="/parking-utility/garages-lots/blair-lot">Blair Lot</a></li>
+<li class="leaf menu-mlid-6884"><a href="/parking-utility/garages-lots/brayton-lot">Brayton Lot</a></li>
+<li class="leaf menu-mlid-6885"><a href="/parking-utility/garages-lots/buckeye-lot">Buckeye Lot</a></li>
+<li class="leaf menu-mlid-6883"><a href="/parking-utility/garages-lots/capitol-square-north-garage">Capitol Square North Garage</a></li>
+<li class="leaf menu-mlid-6875"><a href="/parking-utility/garages-lots/evergreen-lot">Evergreen Lot</a></li>
+<li class="leaf menu-mlid-6882"><a href="/parking-utility/garages-lots/government-east-garage">Government East Garage</a></li>
+<li class="leaf menu-mlid-6880"><a href="/parking-utility/garages-lots/overture-center-garage">Overture Center Garage</a></li>
+<li class="leaf menu-mlid-6876"><a href="/parking-utility/garages-lots/state-street-campus-garage">State Street Campus Garage</a></li>
+<li class="leaf menu-mlid-6879"><a href="/parking-utility/garages-lots/state-street-capitol-garage">State Street Capitol Garage</a></li>
+<li class="leaf menu-mlid-6881"><a href="/parking-utility/garages-lots/wilson-lot">Wilson Lot</a></li>
+<li class="last leaf menu-mlid-6877"><a href="/parking-utility/garages-lots/wingra-lot">Wingra Lot</a></li>
+</ul></div></li>
+<li class="leaf active-trail active menu-mlid-6173 current-hourly-parking-availability active"><a href="/parking-utility/garages-lots/current-hourly-parking-availability" class="active-trail active">Current Hourly Parking Availability</a></li>
+<li class="expanded menu-mlid-6188 hourly-rates"><a href="/parking-utility/garages-lots/hourly-rates">Hourly Rates</a><a href="#section-6188" data-toggle="collapse" class="pull-right expand-icon-collapsed" ></a><div class="collapse" id="section-6188"><ul class="list"><li class="first last leaf menu-mlid-6202"><a href="/parking-utility/garages-lots/hourly-rates/explanation-of-rates">Explanation of Rates</a></li>
+</ul></div></li>
+<li class="leaf menu-mlid-6703 monthly-parking"><a href="/parking-utility/permits/monthly-parking-permits">Monthly Parking</a></li>
+<li class="leaf menu-mlid-6219 motorcycle-&amp;-moped-parking"><a href="/parking-utility/street-parking/motorcycle-moped-parking">Motorcycle &amp; Moped Parking</a></li>
+<li class="leaf menu-mlid-6185 regulations"><a href="/parking-utility/garages-lots/regulations" title="">Regulations</a></li>
+<li class="last leaf menu-mlid-6190 electric-vehicle-charging-stations"><a href="/parking-utility/garages-lots/electric-vehicle-charging-stations">Electric Vehicle Charging Stations</a></li>
+</ul></div>
+<p><div class="node node-flex-content view-mode-default">
+  
+  <p><a class="btn btn-primary btn-block btn-wrap" href="https://transportation.wisc.edu/parking/lotinfo_occupancy.aspx">University of Wisconsin Parking Availability</a></p>
+</div>
+
+</p>
+</div>
+              </div>
+    </div>
+
+    
+  </div>
+
+
+  </div>
+
+
+</section> <!-- /.block -->
+  </div>
+</div>
+  </section>
+
+  
+</div> <!-- main container com-page -->
+
+<footer class="no-print"><div class="add-this-footer container"><div class="row"><div class="col-xs-12"><div class="pull-right addthis-wrap">
+  <div class="addthis_toolbox addthis_default_style">
+    <a class="addthis_counter addthis_pill_style"></a>
+    <a class="addthis_button_email"></a>
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_print"></a>
+  </div>
+  <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ffdba8e685aa0d0"></script>
+</div></div></div></div><div class="region-feedback"><div class="content-grey-overlay no-print"><div class="container-fluid"><div class="row"><div class="col-xs-12"><form class="webform-client-form webform-client-form-1606 form-inline form-was-this-helpful" action="/parking-utility/garages-lots/current-hourly-parking-availability" method="post" id="webform-client-form-1606" accept-charset="UTF-8"><div><div  class="form-item webform-component webform-component-hidden webform-component--page-title" style="display: none">
+ <div><input type="hidden" name="submitted[page_title]" value="Current Hourly Parking Availability" />
+</div>
+</div>
+<div  class="form-item webform-component webform-component-hidden webform-component--breadcrumbs" style="display: none">
+ <div><input type="hidden" name="submitted[breadcrumbs]" value="City of Madison » Parking Utility » Garages &amp;amp; Lots	" />
+</div>
+</div>
+<div  class="form-item webform-component webform-component-hidden webform-component--page-url" style="display: none">
+ <div><input type="hidden" name="submitted[page_url]" value="parking-utility/garages-lots/current-hourly-parking-availability" />
+</div>
+</div>
+<div  class="form-group form-item webform-component webform-component-radios webform-component--was-this-page-helpful-to-you webform-container-inline form-group">
+  <label class="control-label" for="edit-submitted-was-this-page-helpful-to-you">Was this page helpful to you? <span class="form-required" title="This field is required.">*</span></label>
+ <div><div id="edit-submitted-was-this-page-helpful-to-you" class="form-radios"><div class="form-item form-item-submitted-was-this-page-helpful-to-you form-type-radio"> <label class="radio-inline control-label" for="edit-submitted-was-this-page-helpful-to-you-1"><input required="required" type="radio" id="edit-submitted-was-this-page-helpful-to-you-1" name="submitted[was_this_page_helpful_to_you]" value="yes" class="form-radio" />Yes </label>
+</div><div class="form-item form-item-submitted-was-this-page-helpful-to-you form-type-radio"> <label class="radio-inline control-label" for="edit-submitted-was-this-page-helpful-to-you-2"><input required="required" type="radio" id="edit-submitted-was-this-page-helpful-to-you-2" name="submitted[was_this_page_helpful_to_you]" value="no" class="form-radio" />No </label>
+</div></div></div>
+</div>
+<div  class="form-group form-item webform-component webform-component-textfield webform-component--why-or-why-not webform-container-inline form-group">
+  <label class="control-label" for="edit-submitted-why-or-why-not">Why or why not? </label>
+ <div><input class="form-control form-text" type="text" id="edit-submitted-why-or-why-not" name="submitted[why_or_why_not]" value="" size="60" maxlength="250" /></div>
+</div>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-u7z5UG8gIzWQLZuG38eEtGS5jmJXba9ZuI2z_BM5YhA" />
+<input type="hidden" name="form_id" value="webform_client_form_1606" />
+<div class="url-textfield"><div class="form-item form-item-url form-type-textfield"> <label class="control-label" for="edit-url">Leave this field blank </label>
+<div><input autocomplete="off" class="form-control form-text" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" /></div></div></div><div class="form-actions"><button class="webform-submit button-primary btn btn-primary form-submit" type="submit" name="op" value="Submit">Submit</button>
+</div></div></form></div></div></div></div></div><div class="footer">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3">
+<div><h3>Contact Parking Utility</h3><div class="node node-contactinfo view-mode-list">
+  
+  <div class="node node-place node-teaser view-mode-teaser">
+  
+  <div><address><strong>Parking Utility Office</strong><br>30 W Mifflin St<br>Suite 900<br>Madison, WI 53703</address></div></div>
+
+<ul><li>Office Hours: <br />Monday – Friday, 7:30 am – 4:30 pm<br /><em>Residential Parking Permit sales 8:00 am- 4:00 pm<br /><em>Street Occupancy Permit sales 8:00 am - 4:00 pm</em></em>
+</li><li>Phone: (608) 266-4761
+</li><li>Fax: (608) 267-1158
+</li><li><a href="mailto:parking@cityofmadison.com">Email: parking@cityofmadison.com</a></li><li><a href="/dcr/WIRelayService.cfm">WI Relay Service</a></li></ul></div>
+
+</div>
+</div>
+
+<div class="col-md-3">
+<div><h3>Navigate to</h3><div class="node node-flex-content view-mode-default">
+  
+  <ul class="list "><li><a href="/parking-utility/garages-lots/current-hourly-parking-availability">Current Hourly Parking Availability </a></li><li><a href="/parking-utility/permits/residential-parking-permits">Residential Permits </a></li><li><a href="/parking-utility/accessibility">Accessible Parking </a></li><li><a href="/parking-utility/espanol">En Español </a></li><li><a href="http://www.cityofmadison.com/residents/winter/parking/">Winter Parking </a></li></ul></div>
+
+</div>
+</div>
+
+<div class="col-md-3">
+<div><h3>External Departments</h3><div class="node node-flex-content view-mode-default">
+  
+  <ul class="list "><li><a href="http://www.cityofmadison.com/police/traffic/parking/">Pay a Parking Ticket </a></li><li><a href="http://www.cityofmadison.com/police/traffic/parking/review.cfm">Request a Parking Ticket Review </a></li><li><a href="http://www.cityofmadison.com/trafficengineering/">Traffic Engineering </a></li><li><a href="http://www.cityofmadison.com/metro/">Madison Metro </a></li><li><a href="http://www.cityofmadison.com/metro/planyourtrip/parkandride.cfm">Park & Ride </a></li><li><a href="http://www.madisonareampo.org/rideshare/">RideShare </a></li><li><a href="http://www.msnairport.com/">Dane County Regional Airport Parking </a></li></ul></div>
+
+</div>
+</div>
+
+<div class="col-md-3">
+<div><div class="views-display"><h3 class="">Stay Informed</h3><div class="view view-stay-informed-list view-id-stay_informed_list view-display-id-outreach_footer_block view-dom-id-c8b6263cd19bd9deb3e108ad2557aa30">
+        
+  
+  
+      <div class="view-content">
+          <ul class="list double">          <li class="">  
+          <a href="https://www.facebook.com/pages/City-of-Madison-Traffic-Parking/260643397400825" class="facebook">Traffic &amp; Parking Facebook</a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a class="strong" href="/outreach">All Social Media &raquo;</a></p>    </div>
+  
+  
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="com-footer"><div class="container"><div class="node node-flex-content view-mode-default">
+  
+  <div class="copyright">Copyright © 1995 - 2018</div>
+<ul class="list-inline"><li class="menu-549 first"><a href="/" title="">City of Madison, WI</a></li>
+<li class="menu-550"><a href="/form/website-contact-form" title="">Contact Webmaster</a></li>
+<li class="menu-551"><a href="/policy/accessibility" title="">Accessibility</a></li>
+<li class="menu-552"><a href="/policy/conditions" title="">Conditions &amp; Use</a></li>
+<li class="menu-553"><a href="/policy/privacy" title="">Privacy Policy</a></li>
+<li class="menu-554"><a href="/policy/security" title="">Security Policy</a></li>
+<li class="menu-555 last"><a href="/policy/data" title="">Data Policy</a></li>
+</ul></div>
+
+</div></div></footer><script src="http://www.cityofmadison.com/sites/all/themes/bootstrap/js/bootstrap.js?pabgzy"></script>
+</body>
+</html>

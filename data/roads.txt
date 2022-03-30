@@ -1,0 +1,1588 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="/Content/WI/images/favicon/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/Content/WI/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="/Content/WI/images/favicon/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="/Content/WI/images/favicon/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/WI/images/favicon/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/Content/WI/images/favicon/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/WI/images/favicon/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/WI/images/favicon/favicon-16.png">
+    <link rel="apple-touch-icon" href="/Content/WI/images/favicon/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/WI/images/favicon/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/WI/images/favicon/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/WI/images/favicon/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/WI/images/favicon/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/WI/images/favicon/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/WI/images/favicon/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/WI/images/favicon/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/WI/images/favicon/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/Content/WI/images/favicon/favicon-144.png">
+    <meta name="msapplication-config" content="/Content/WI/images/favicon/browserconfig.xml">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="description" content="Provides up to the minute traffic information for Wisconsin.  View the real time traffic map with travel times, traffic accident details, traffic cameras and other road conditions. Plan your trip and get the fastest route taking into account current traffic conditions.">
+
+    <title>
+        
+        511WI
+        | Wisconsin Traffic | Commuter Information
+    </title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+    <link href='/bundles/maincss?v=4k8vreyyfOGx2gOOp_L2wTZ8SgnELd1Yajui8YL692g1' type='text/css' rel='stylesheet'/>
+
+    
+
+    <!-- Google Analytics -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments);
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', '', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
+
+
+
+</head>
+<body>
+    <div role="banner" class="topBanner">
+        <noscript>
+            <span class="label label-warning">Javascript is disabled on your browser and this site won&#39;t work properly without Javascript enabled!</span>
+        </noscript>
+        <a href="#content" class="sr-only sr-only-focusable" title="Content">Skip to main content</a>
+        <div class="printSiteHeader">511WI</div>
+
+        <nav class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid">
+        <div class="row navBar">
+            
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/" target="_self">
+                    <span class="navbar-logo"><span class='hideForAccessibility'>WisDOT Website in new tab</span></span>
+                </a>
+                <span class="travelInfoRight">
+    <span>
+        Traveler information:
+    </span>
+    <span>
+        Call 511 or
+    </span>
+    <span>
+        (866) 511-9472
+    </span>
+</span>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                
+                
+
+    <ul class="nav navbar-nav">
+                        <li class="">
+                            <a href="/" target="_self">Home</a>
+                        </li>
+                        <li class="dropdown ">
+                            <a href="/" class="dropdown-toggle" target="_self" title="Traffic Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                                Traffic <span class="caret"></span>
+                            </a>    <ul class="dropdown-menu" role="menu">
+                <li>
+                    <a href="/winterroadconditions" target="_self" title="Traffic - Winter Road Conditions List">Winter Road Conditions List</a>
+                </li>
+                <li>
+                    <a href="/list/events/incidents" target="_self" title="Traffic - Incidents List">Incidents List</a>
+                </li>
+                <li>
+                    <a href="/construction" target="_self" title="Traffic - Roadwork / Closures List">Roadwork / Closures List</a>
+                </li>
+                <li>
+                    <a href="/messagesigns" target="_self" title="Traffic - Message Signs List">Message Signs List</a>
+                </li>
+                <li>
+                    <a href="/cctv" target="_self" title="Traffic - Cameras List">Cameras List</a>
+                </li>
+                <li>
+                    <a href="/traveltimes" target="_self" title="Traffic - Travel Times List">Travel Times List</a>
+                </li>
+    </ul>
+
+                        </li>
+                        <li class="dropdown ">
+                            <a href="/" class="dropdown-toggle" target="_self" title="My 511WI Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                                My 511WI <span class="caret"></span>
+                            </a>    <ul class="dropdown-menu" role="menu">
+                <li>
+                    <a href="/my511/register" target="_self" title="My 511WI - Register">Register</a>
+                </li>
+                <li>
+                    <a href="/my511" target="_self" title="My 511WI - Manage Routes &amp; Alerts">Manage Routes &amp; Alerts</a>
+                </li>
+    </ul>
+
+                        </li>
+                        <li class="dropdown ">
+                            <a href="/" class="dropdown-toggle" target="_self" title="Travel Services Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                                Travel Services <span class="caret"></span>
+                            </a>    <ul class="dropdown-menu" role="menu">
+                <li>
+                    <a href="/TravelLinks#modesoftravel" target="_self" title="Travel Services - Modes of Travel">Modes of Travel</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#travelassistance" target="_self" title="Travel Services - Travel Assistance">Travel Assistance</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#constructioninformation" target="_self" title="Travel Services - Construction Information">Construction Information</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#weather" target="_self" title="Travel Services - Weather">Weather</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#safetyandemergencyinformation" target="_self" title="Travel Services - Safety and Emergency Information">Safety and Emergency Information</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#majoreventsandtourism" target="_self" title="Travel Services - Major Events and Tourism">Major Events and Tourism</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#outofstate" target="_self" title="Travel Services - Out of State">Out of State</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#neighboring511websites" target="_self" title="Travel Services - Neighboring 511 Websites">Neighboring 511 Websites</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/travel/road/rideshare/default.aspx" target="_blank" title="Travel Services - Rideshare">Rideshare</a>
+                </li>
+    </ul>
+
+                        </li>
+                        <li class="dropdown ">
+                            <a href="/" class="dropdown-toggle" target="_self" title="Trucker Information Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                                Trucker Information <span class="caret"></span>
+                            </a>    <ul class="dropdown-menu" role="menu">
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/osow-autosys.aspx" target="_blank" title="Trucker Information - Oversize-overweight permits (Wisconsin Only)">Oversize-overweight permits (Wisconsin Only)</a>
+                </li>
+                <li>
+                    <a href="https://trust.dot.state.wi.us/hstp/stpProcessSeventyTwoHourPermitPage.do" target="_blank" title="Trucker Information - 72 hour permits">72 hour permits</a>
+                </li>
+                <li>
+                    <a href="https://trust.dot.state.wi.us/hstp/htpProcessHuntersPermitPage.do" target="_blank" title="Trucker Information - Unladen permits">Unladen permits</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/wiscrs.aspx" target="_blank" title="Trucker Information - IRP and IFTA transactions">IRP and IFTA transactions</a>
+                </li>
+                <li>
+                    <a href="http://www.fmcsa.dot.gov/registration/do-i-need-usdot-number" target="_blank" title="Trucker Information - US DOT number">US DOT number</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/WINNDOT-permit.aspx" target="_blank" title="Trucker Information - WINNDOT Cross-border Permit Portal">WINNDOT Cross-border Permit Portal</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/default.aspx" target="_blank" title="Trucker Information - Additional Resources">Additional Resources</a>
+                </li>
+    </ul>
+
+                        </li>
+                        <li class="dropdown ">
+                            <a href="/" class="dropdown-toggle" target="_self" title="About Menu" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                                About <span class="caret"></span>
+                            </a>    <ul class="dropdown-menu" role="menu">
+                <li>
+                    <a href="/faq" target="_self" title="About - FAQ">FAQ</a>
+                </li>
+                <li>
+                    <a href="/developers/resources" target="_self" title="About - Developer Resources">Developer Resources</a>
+                </li>
+                <li>
+                    <a href="/contact?FeedbackType=Report" target="_self" title="About - Report Road Hazard">Report Road Hazard</a>
+                </li>
+                <li>
+                    <a href="/contact" target="_self" title="About - Contact Us">Contact Us</a>
+                </li>
+    </ul>
+
+                        </li>
+                        <li class="">
+                            <a href="http://projects.511wi.gov" target="_blank">Construction Projects</a>
+                        </li>
+    </ul>
+
+                
+                <ul class="nav navbar-nav">
+                    <li class="loginSection">    <ul class="nav navbar-nav">
+        
+        <li><a href="#" id="login-button" role="button" data-toggle="modal" data-target="#loginModalDialog">Register/Login</a></li>
+    </ul>
+</li>
+                    <li class="dropdown">
+    <div id="region-list-label" class="hidden">Open list of regions</div>
+    <button id="currentRegionDropdownText"  class="dropdown-toggle toggleButtonMenu" data-toggle="dropdown" data-hover="dropdown"  aria-expanded="false" aria-controls="regionList" aria-labelledby="region-list-label">
+        All Regions<span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" id="regionList" title="Location List" aria-labelledby="region-list-label">
+                <li role="option">
+                    <a href="/region/All Regions" onclick="event.preventDefault(); submitRegionInfo('All Regions', 'ALL', ['44.5', '-90', '9']);">All Regions</a>
+                </li>
+                <li role="option">
+                    <a href="/region/Northwest" onclick="event.preventDefault(); submitRegionInfo('Northwest', 'NW', ['44.866', '-91.402', '11']);">Northwest</a>
+                </li>
+                <li role="option">
+                    <a href="/region/North Central" onclick="event.preventDefault(); submitRegionInfo('North Central', 'NC', ['44.95', '-89.64', '11']);">North Central</a>
+                </li>
+                <li role="option">
+                    <a href="/region/Northeast" onclick="event.preventDefault(); submitRegionInfo('Northeast', 'NE', ['44.5', '-88.01', '11']);">Northeast</a>
+                </li>
+                <li role="option">
+                    <a href="/region/Southwest" onclick="event.preventDefault(); submitRegionInfo('Southwest', 'SW', ['43.096', '-89.323', '11']);">Southwest</a>
+                </li>
+                <li role="option">
+                    <a href="/region/Southeast" onclick="event.preventDefault(); submitRegionInfo('Southeast', 'SE', ['43.01', '-87.92', '11']);">Southeast</a>
+                </li>
+    </ul>
+</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="row scrollRow">
+    <div class="divider"></div>
+    <a class="alertHeader" href="/List/Alerts"> <i class="fa fa-exclamation-triangle"></i>Alerts</a>
+    <div id="alertWrapper">
+        <div class="socialSection">
+            <span class='hideForAccessibility'>Connect with us on social media.</span>
+                    <a href="https://twitter.com/511WI" target="_blank">
+                        <span class="fa-lg"><i class="fa fa-twitter" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Twitter in new window.</span>
+                    </a>
+                            <a href="https://www.youtube.com/user/wisdot" target="_blank">
+                    <span class="fa-lg"><i class="fa fa-youtube" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Youtube in new window.</span>
+                </a>
+                            <a href="https://www.facebook.com/WisDOT" target="_blank">
+                    <span class="fa-lg"><i class="fa fa-facebook" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Facebook in new window.</span>
+                </a>
+                                                    <a href="https://play.google.com/store/apps/details?id=com.nicusa.wisgo.android" target="_blank">
+                    <span class="googlePlayIcon"></span><span class='hideForAccessibility'>Link to Google Play in new window</span>
+                </a>
+                            <a href="https://itunes.apple.com/us/app/511-wisconsin/id969082710?mt=8" target="_blank">
+                    <span class="appStoreIcon"></span><span class='hideForAccessibility'>Link to App Store in new window</span>
+                </a>
+        </div>
+        <div id="alertsBox" class="scroller siteWideAlerts">
+            <ul><li id="emptyAlertLi">&nbsp;</li></ul>
+        </div>
+    </div>
+    <div class="dividerDark mobile"></div>
+    <div class="divider mobile"></div>
+    <div class="socialSectionMobile">
+        <span class='hideForAccessibility'>Connect with us on social media.</span>
+                <a href="https://twitter.com/511WI" target="_blank">
+                    <span class="fa-lg"><i class="fa fa-twitter" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Twitter in new window.</span>
+                </a>
+                    <a href="https://www.youtube.com/user/wisdot" target="_blank">
+                <span class="fa-lg"><i class="fa fa-youtube" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Youtube in new window.</span>
+            </a>
+                    <a href="https://www.facebook.com/WisDOT" target="_blank">
+                <span class="fa-lg"><i class="fa fa-facebook" aria-hidden="true"></i></span><span class='hideForAccessibility'>Link to Facebook in new window.</span>
+            </a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.nicusa.wisgo.android" target="_blank">
+                <span class="googlePlayIcon"></span><span class='hideForAccessibility'>Link to Google Play in new window</span>
+            </a>
+                    <a href="https://itunes.apple.com/us/app/511-wisconsin/id969082710?mt=8" target="_blank">
+                <span class="appStoreIcon"></span><span class='hideForAccessibility'>Link to App Store in new window</span>
+            </a>
+    </div>
+    <div class="divider1 mobile"></div>
+</div>
+
+    </div>
+    <div class="container-fluid mainContainer" role="main">
+        
+        <div id="content">
+
+<div id="loginModalDialog" class="modal fade" role="dialog">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <span class="modal-title" style="font-size: 1.2em; color: #fff;">Login</span>
+            </div>
+            <div class="modal-body">
+                <form id="loginFormmodal" class="form-horizontal">
+                    <input name="__RequestVerificationToken" type="hidden" value="NLwh2ggbv0i0WkLCjfYFTtkCXZLV2xMW5HBtBkYpgEDhrKyvSvX4cBQaLsCL0P_KC_YVQ2SZp37YPPq7FhSQdj58y2w1" />
+                    <div id="validationSummarymodal" hidden="hidden" class="alert alert-danger">
+                        <ul><li></li></ul>
+                    </div>
+                    
+<div class="form-group">
+    <label class="col-md-12&#32;control-label" for="Emailmodal">Email</label>
+    <div class="col-md-12">
+        <input autocomplete="off" autofocus="autofocus" class="form-control" data-val="true" data-val-email="Please&#32;enter&#32;a&#32;valid&#32;email&#32;address." data-val-required="Email&#32;is&#32;required" id="Emailmodal" name="Email" title="Emailmodal" type="email" value="" />
+        <span class="field-validation-valid&#32;text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+    </div>
+</div>
+<div class="form-group">
+    <label class="col-md-12&#32;control-label" for="Passwordmodal">Password</label>
+    <div class="col-md-12">
+        <input autocomplete="off" class="form-control" data-val="true" data-val-required="Password&#32;is&#32;required" id="Passwordmodal" name="Password" title="Password" type="password" />
+        <span class="field-validation-valid&#32;text-danger" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+    </div>
+</div>
+<div class="form-group">
+    <div class="col-md-6">
+        <div class="checkbox">
+            <input aria-label="RememberMe" data-val="true" data-val-required="The&#32;Remember&#32;me?&#32;field&#32;is&#32;required." id="RememberMemodal" name="RememberMe" role="group" title="RememberMe" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+            <label for="RememberMemodal">Remember me?</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="checkbox">
+            <a href="/my511/forgotpassword">Forgot your password?</a>
+        </div>
+    </div>
+</div>
+<div class="form-group">
+    <div class="col-md-12">
+        <input type="submit" id="logInButtonmodal" value="Log in" class="btn btn-info btn-default" />
+    </div>
+</div>
+<hr />
+<div class="form-group">
+    <div class="col-md-12">
+        <label>New User?</label>
+    </div>
+    <div class="col-md-12">
+        <a class="btn&#32;btn-info&#32;form-control" href="/my511/register">Register</a>
+    </div>
+</div>  
+
+<input id="returnUrlmodal" name="returnUrl" type="hidden" value="" />
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="pageDown">
+    <div class="row mapPage">
+        <div class="sideBarGroup">
+            <div class="showSideBar" title="Show Route Planner">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x" aria-hidden="true" title="Show Route Planner"></i>
+                    <span class="sr-only">Show Route Planner</span>
+                    <i class="fa fa-chevron-right fa-stack-1x" contenteditablearia-hidden="true" title="Show Route Planner"></i>
+                    <span class="sr-only">Show Route Planner</span>
+                </span>
+            </div>
+            <div id="sideBarColContainer" class="sideBarColContainer">
+                <div id="sideBar">
+                    <div class="hideSideBar" title="Hide Route Planner">
+                        <i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true" title="Hide Route Planner"></i>
+                        <span class="sr-only">Hide Route Planner</span>
+                    </div>
+                    <ul class="nav nav-tabs" id="MainTabs">
+    <li id="RoutesTab">
+        <a href="#MyRoutes" data-toggle="tab">
+            <h2>My Routes</h2>
+        </a>
+    </li>
+    <li id="AlertsTab">
+        <a href="#Alerts" data-toggle="tab">
+            <h2>Urgent Alerts</h2>
+        </a>
+    </li>
+    <li id="NewsTab">
+        <a href="#News" data-toggle="tab">
+            <h2>Social</h2>
+        </a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div id="News" class="tab-pane">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2>WHAT&#39;S NEW</h2>
+                <div class="whatsNew newsContent">
+                    
+
+<div id="Map_Index_WhatsNew" data-atisParent="true">
+        <div id="virtual-158" data-atis="true" class=""></div>
+        <div id="virtual-159" data-atis="true" class=""></div>
+</div>
+
+
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <h2>TWITTER</h2>
+                <div class="twitter newsContent">
+                    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/StateTrafficOps/lists/twitter511"  data-chrome="noheader nofooter" data-height="300">Tweets by @511WI</a>
+                    <script>
+                        !function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                            if (!d.getElementById(id)) {
+                                js = d.createElement(s);
+                                js.id = id;
+                                js.src = p + "://platform.twitter.com/widgets.js";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }
+                        }(document, "script", "twitter-wjs");
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="Alerts" class="tab-pane">
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="defaultAlertMsg" style="display: none;">There are currently no emergency alerts at this time.</p>
+                
+
+<div id="Map_Index_AlertMsg" data-atisParent="true" data-ajax="true">
+        <div id="virtual-174" data-atis="true" class=""><img height="33" src="/cms/getfile?id=7ae67664-bb73-e811-80bb-ce890492f10a" width="37" /><a href="http://transportal.cee.wisc.edu/resources/folders/downloads/511/CurrentAlertsFolder/511Flood_Impact_Map_1700_061918.jpg">Click here for a flood impact map</a></div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    <div id="MyRoutes" class="tab-pane">
+        <div class="row">
+            <div>
+                <div id="routingInput">
+    <form>
+        <div class="form-group hidden-print">
+            <div class="input-group">
+                <label class="sr-only" for="startLocationText">A</label>
+                <div class="input-group-addon">A</div>
+                <input type="text" class="form-control" id="startLocationText" placeholder="Address">
+                <div class="input-group-btn">
+                    <button class="btn btn-default" type="button" id="setStartGeolocation" title="My Location Address">
+                        <i class="fa fa-crosshairs" aria-hidden="true"></i>
+                        <span class="sr-only">My Location Address</span>
+                    </button>
+                </div>
+            </div>
+            <button type="button" id="swapLocationsBtn" title="Swap locations A and B">
+                <i class="fa fa-exchange fa-rotate-90" aria-hidden="true"></i>
+                <span class="sr-only">Swap locations A and B</span>
+            </button>
+        </div>
+            <div class="waypointContainer">
+                <div id="waypoints">
+                </div>
+                <button type="button" id="addWaypointBtn" class="btn">
+                    <div class="circleBg">
+                        <i class="fa fa-plus" area-hidden="true"></i>
+                    </div>
+                    Add Waypoint
+                </button>
+            </div>
+        <div class="form-group hidden-print">
+            <div class="input-group">
+                <label class="sr-only" for="endLocationText">B</label>
+                <div class="input-group-addon">B</div>
+                <input type="text" class="form-control" id="endLocationText" placeholder="Address">
+                <div class="input-group-btn">
+                    <button class="btn btn-default" type="button" id="setEndGeolocation" title="My Location Address">
+                        <i class="fa fa-crosshairs" aria-hidden="true"></i>
+                        <span class="sr-only">My Location Address</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="form-group-routingOptions" class="form-group hidden-print">
+            <button type="submit" id="generateRouteBtn" class="btn btn-info btn-default">Drive</button>
+                        <button type="button" id="clearRouteBtn" class="btn btn-info btn-default">Reset</button>
+                        <!-- We resuse the routing buttons partial view here, if we ever need both routing buttons and transit routing buttons this will need to be separated or merged -->
+            <a class="printRoute" title="Print Route Details" aria-label="Print Route Details">
+                <i class="fa fa-print fa-2x" aria-hidden="true" tabindex="0"></i>
+            </a>
+            <a class="linkRoute" title="Link To Route" aria-label="Link To Route">
+                <i class="fa fa-link fa-2x" aria-hidden="true" tabindex="0"></i>
+            </a>
+            
+
+            <div id="routeOptions-toggle" class="panel panel-info collapse">
+                <div class="panel-body" role="group" aria-labelledby="avoidTollsCheckBox">
+                    <label class="header">Avoid</label>
+                    <label><input type="checkbox" id="avoidTollsCheckBox"/> Tolls</label>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div id="statusBar" class="alert alert-default" style="display: none;">
+                
+
+<div id="Map_Index_RoutePlannerDescription" data-atisParent="true">
+</div>
+
+
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+    </form>
+</div>
+
+                <div id="routingResults">
+    <div id="routeResults" style="display: none;">
+        <ul id="routeTabs" class="nav nav-tabs"></ul>
+        <div id="routeTabContent" class="tab-content">
+        </div>
+        <div id="transitRouteResults" class="panel panel-default"></div>
+    </div>
+<link href='/Content/slick/css?v=wr_McIM11abwNTu9xLWuo2eDYwHaBRB3u8plWWPHI0U1' type='text/css' rel='stylesheet'/>
+        <div class="row myCamerasContainer">
+            <h2>My Cameras <span id="MyCamToggleBtn" data-toggle="collapse" title="Toggle"><i class="fa fa-minus-circle" aria-hidden="true"></i>
+             <span class="sr-only">Toggle</span></span></h2>
+            <div id="MyCamerasSlideshow" class="myCameras collapse in">
+                    <span class="label label-info myCamInfo">
+                    Please login to customize My Cameras.
+                </span>
+                <a title="View on map" id="myCameraLocation" href="#"><p id="myCameraTitle" style="display: inline-block; margin-left: auto; margin-right: auto; font-weight:bold"></p></a>
+                <div id="NoCameras" style="display: inline-block; margin-left: auto; margin-right: auto; font-weight: bold; display: none;">To add to My Cameras: Click on a camera icon on the map. Then click the &#39;Add&#39; button at the top of the camera popup.</div>
+                <div class="cameraCarousel"></div>
+            </div>
+        </div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 mapColContainer" id="map-col-container">
+            
+            <div class="map-container">
+    <div id="map-canvas"></div>
+    <div id="legend-container" class="legend-container">
+        <button class="btn btn-group legend-toggle" title="Toggle">
+            Map Legend<span class="caret"></span>
+        </button>
+        <button id="backToMapView" class="btn btn-group">Back to Map</button>
+        
+        <div id="layerSelection" class="layerSelection">                     
+                        <label id="TrafficSpeeds" title="Traffic Speeds">
+                <input type="checkbox"
+                       name="TrafficSpeeds"
+                       data-tileurlformat="/map/mapTraffic/{x}/{y}/{z}"
+                       data-minzoom="7"
+                       data-maxzoom="16"
+                       data-layerid="TrafficSpeeds"
+                       data-tooltipurlformat=""
+                       data-conflicts=""
+                       data-highwayfill=""
+                       data-highwaystroke=""
+                       data-animationFrames="0"
+                       data-opacity="1"
+                       aria-labelledby="TrafficSpeeds" />
+
+                <img src="/Content/Images/ic_trafficSpeed.png" alt="Traffic Speeds" />
+                <span>Traffic Speeds</span>
+            </label>
+                <div id="legend-tile-TrafficSpeeds" style="display: none;" class="legend-horizontal">
+                    <div class='legend-scale'>
+                        <ul class='legend-labels'>
+                                <li>
+                                        <span style='background: #000000;'></span>
+                                                                            <label>Travel Not Advised</label>
+                                </li>
+                                <li>
+                                        <span style='background: #CC0004;'></span>
+                                                                            <label>Slow</label>
+                                </li>
+                                <li>
+                                        <span style='background: #F4FF24;'></span>
+                                                                    </li>
+                                <li>
+                                        <span style='background: #249D74;'></span>
+                                                                            <label>Fast</label>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class='legend-clear'></div>
+                </div>
+            <label id="WinterRoads" title="Winter Road Conditions">
+                <input type="checkbox"
+                       name="WinterRoads"
+                       data-tileurlformat="/map/mapWta/{x}/{y}/{z}"
+                       data-minzoom="7"
+                       data-maxzoom="16"
+                       data-layerid="WinterRoads"
+                       data-tooltipurlformat="/Tooltip/WtaTooltip?lat={lat}&amp;lng={lng}&amp;z={z}"
+                       data-conflicts=""
+                       data-highwayfill=""
+                       data-highwaystroke=""
+                       data-animationFrames="0"
+                       data-opacity="1"
+                       aria-labelledby="WinterRoads" />
+
+                <img src="/Content/Images/ic_wta.png" alt="Winter Road Conditions" />
+                <span>Winter Road Conditions</span>
+            </label>
+                <div id="legend-tile-WinterRoads" style="display: none;" class="legend-horizontal">
+                    <div class='legend-scale'>
+                        <ul class='legend-labels'>
+                                <li>
+                                        <span style='background: #44CC00;'></span>
+                                                                            <label>Good Winter Driving</label>
+                                </li>
+                                <li>
+                                        <span style='background: #D176A2;'></span>
+                                                                            <label>Slippery Stretches</label>
+                                </li>
+                                <li>
+                                        <span style='background: #5DAFE9;'></span>
+                                                                            <label>Snow Covered</label>
+                                </li>
+                                <li>
+                                        <span style='background: #FF0000;'></span>
+                                                                            <label>Ice Covered</label>
+                                </li>
+                                <li>
+                                        <span style='background: #000000;'></span>
+                                                                            <label>Travel Not Advised</label>
+                                </li>
+                                <li>
+                                        <span style='background: #996600;'></span>
+                                                                            <label>No Report</label>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class='legend-clear'></div>
+                </div>
+                    <label id="Cameras" title="Cameras">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/Cameras"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="Cameras"
+                               data-icon="/Content/Images/ic_camera.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="Cameras"
+                               aria-labelledby="Cameras"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_camera.png" alt="Cameras"/>
+                        <span>Cameras</span>
+                    </label>
+                    <label id="Incidents" title="Incidents">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/Incidents"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="Incidents"
+                               data-icon="/Content/Images/ic_exclamationMarkOrangeBlue.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="Incidents"
+                               aria-labelledby="Incidents"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_exclamationMarkOrangeBlue.png" alt="Incidents"/>
+                        <span>Incidents</span>
+                    </label>
+                    <label id="Construction" title="Roadwork">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/Construction"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="Construction"
+                               data-icon="/Content/Images/ic_construction.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="Construction"
+                               aria-labelledby="Construction"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_construction.png" alt="Roadwork"/>
+                        <span>Roadwork</span>
+                    </label>
+                    <label id="MessageSigns" title="Message Signs">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/MessageSigns"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="MessageSigns"
+                               data-icon="/Content/Images/ic_messageSign.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="MessageSigns"
+                               aria-labelledby="MessageSigns"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_messageSign.png" alt="Message Signs"/>
+                        <span>Message Signs</span>
+                    </label>
+                    <label id="Parking" title="Park &amp; Ride">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/Parking"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="Parking"
+                               data-icon="/Content/Images/ic_parking.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="Parking"
+                               aria-labelledby="Parking"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_parking.png" alt="Park &amp; Ride"/>
+                        <span>Park &amp; Ride</span>
+                    </label>
+                    <label id="TruckRestrictions" title="Trucker Information">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/TruckRestrictions"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="TruckRestrictions"
+                               data-icon="/Content/Images/ic_truckRestriction.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="TruckRestrictions"
+                               aria-labelledby="TruckRestrictions"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_truckRestriction.png" alt="Trucker Information"/>
+                        <span>Trucker Information</span>
+                    </label>
+                    <label id="WeatherAlerts" title="Weather Alerts">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/WeatherAlerts"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="WeatherAlerts"
+                               data-icon="/Content/Images/ic_weatherAlert.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="WeatherAlerts"
+                               aria-labelledby="WeatherAlerts"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_weatherAlert.png" alt="Weather Alerts"/>
+                        <span>Weather Alerts</span>
+                    </label>
+                    <label id="WeatherForecast" title="Weather Forecasts">
+                        <input type="checkbox"
+                               data-jsonurl="/map/mapIcons/WeatherForecast"
+                               data-tooltipbaseurl="/tooltip/{layerId}/{id}?lang={lang}"
+                               data-layerid="WeatherForecast"
+                               data-icon="/Content/Images/ic_weatherForecast.png"
+                               data-iconsize="16,22"
+                               data-iconorigin="0,0"
+                               data-iconanchor="8,21"
+                               data-conflicts=""
+                               name="WeatherForecast"
+                               aria-labelledby="WeatherForecast"
+                               data-visible="False"/>
+
+                        <img src="/Content/Images/ic_weatherForecast.png" alt="Weather Forecasts"/>
+                        <span>Weather Forecasts</span>
+                    </label>
+
+
+
+        </div>
+    </div>
+</div>
+        </div>
+        <div id="mobileRoutingResults" class="col-sm-12">
+        </div>
+    </div>
+</div>
+
+        </div>
+        <div class="dividerDark mobile"></div>
+<div class="divider mobile"></div>
+<div class="row footer">
+    <div class="col-md-11">
+        
+        
+
+    <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/" target="_self">Home</a>
+                    </li>
+                <li class="">
+                        <a href="/" class="disabled">
+                            Traffic
+                        </a>
+                        <ul class="subMenu">
+                <li>
+                    <a href="/winterroadconditions" target="_self" title="Traffic - Winter Road Conditions List">Winter Road Conditions List</a>
+                </li>
+                <li>
+                    <a href="/list/events/incidents" target="_self" title="Traffic - Incidents List">Incidents List</a>
+                </li>
+                <li>
+                    <a href="/construction" target="_self" title="Traffic - Roadwork / Closures List">Roadwork / Closures List</a>
+                </li>
+                <li>
+                    <a href="/messagesigns" target="_self" title="Traffic - Message Signs List">Message Signs List</a>
+                </li>
+                <li>
+                    <a href="/cctv" target="_self" title="Traffic - Cameras List">Cameras List</a>
+                </li>
+                <li>
+                    <a href="/traveltimes" target="_self" title="Traffic - Travel Times List">Travel Times List</a>
+                </li>
+    </ul>
+
+                </li>
+                <li class="">
+                        <a href="/" class="disabled">
+                            My 511WI
+                        </a>
+                        <ul class="subMenu">
+                <li>
+                    <a href="/my511/register" target="_self" title="My 511WI - Register">Register</a>
+                </li>
+                <li>
+                    <a href="/my511" target="_self" title="My 511WI - Manage Routes &amp; Alerts">Manage Routes &amp; Alerts</a>
+                </li>
+    </ul>
+
+                </li>
+                <li class="">
+                        <a href="/" class="disabled">
+                            Travel Services
+                        </a>
+                        <ul class="subMenu">
+                <li>
+                    <a href="/TravelLinks#modesoftravel" target="_self" title="Travel Services - Modes of Travel">Modes of Travel</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#travelassistance" target="_self" title="Travel Services - Travel Assistance">Travel Assistance</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#constructioninformation" target="_self" title="Travel Services - Construction Information">Construction Information</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#weather" target="_self" title="Travel Services - Weather">Weather</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#safetyandemergencyinformation" target="_self" title="Travel Services - Safety and Emergency Information">Safety and Emergency Information</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#majoreventsandtourism" target="_self" title="Travel Services - Major Events and Tourism">Major Events and Tourism</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#outofstate" target="_self" title="Travel Services - Out of State">Out of State</a>
+                </li>
+                <li>
+                    <a href="/TravelLinks#neighboring511websites" target="_self" title="Travel Services - Neighboring 511 Websites">Neighboring 511 Websites</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/travel/road/rideshare/default.aspx" target="_blank" title="Travel Services - Rideshare">Rideshare</a>
+                </li>
+    </ul>
+
+                </li>
+                <li class="">
+                        <a href="/" class="disabled">
+                            Trucker Information
+                        </a>
+                        <ul class="subMenu">
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/osow-autosys.aspx" target="_blank" title="Trucker Information - Oversize-overweight permits (Wisconsin Only)">Oversize-overweight permits (Wisconsin Only)</a>
+                </li>
+                <li>
+                    <a href="https://trust.dot.state.wi.us/hstp/stpProcessSeventyTwoHourPermitPage.do" target="_blank" title="Trucker Information - 72 hour permits">72 hour permits</a>
+                </li>
+                <li>
+                    <a href="https://trust.dot.state.wi.us/hstp/htpProcessHuntersPermitPage.do" target="_blank" title="Trucker Information - Unladen permits">Unladen permits</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/wiscrs.aspx" target="_blank" title="Trucker Information - IRP and IFTA transactions">IRP and IFTA transactions</a>
+                </li>
+                <li>
+                    <a href="http://www.fmcsa.dot.gov/registration/do-i-need-usdot-number" target="_blank" title="Trucker Information - US DOT number">US DOT number</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/WINNDOT-permit.aspx" target="_blank" title="Trucker Information - WINNDOT Cross-border Permit Portal">WINNDOT Cross-border Permit Portal</a>
+                </li>
+                <li>
+                    <a href="http://wisconsindot.gov/Pages/dmv/com-drv-vehs/mtr-car-trkr/default.aspx" target="_blank" title="Trucker Information - Additional Resources">Additional Resources</a>
+                </li>
+    </ul>
+
+                </li>
+                <li class="">
+                        <a href="/" class="disabled">
+                            About
+                        </a>
+                        <ul class="subMenu">
+                <li>
+                    <a href="/faq" target="_self" title="About - FAQ">FAQ</a>
+                </li>
+                <li>
+                    <a href="/developers/resources" target="_self" title="About - Developer Resources">Developer Resources</a>
+                </li>
+                <li>
+                    <a href="/contact?FeedbackType=Report" target="_self" title="About - Report Road Hazard">Report Road Hazard</a>
+                </li>
+                <li>
+                    <a href="/contact" target="_self" title="About - Contact Us">Contact Us</a>
+                </li>
+    </ul>
+
+                </li>
+                    <li>
+                        <a href="http://projects.511wi.gov" target="_blank">Construction Projects</a>
+                    </li>
+    </ul>
+
+
+
+    </div>
+    <div class="col-md-1">
+        <div class="footerLogo"><a href="http://wisconsindot.gov/Pages/home.aspx" target="_blank"><span class='hideForAccessibility'></span></a></div>
+    </div>
+</div>
+    </div>
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="00000000000000000000000000000000" data-appversion="1.0.136381"></script>
+
+    <script src="/bundles/jquery?v=DGWj1SJX61WvbyyMTCfeycvCDN7KCoSmuGStpPEtHc81"></script>
+
+    <script src="/bundles/common?v=CuCxI2tpxpw7PHO4Gec_P5vMW6gyB5yN9h_qLoxVj9s1"></script>
+
+    <script src="/bundles/bootstrap?v=hNduMdqanayjV6Vl_nFZnPc92QTFB-fx9pXEAEz8TOU1"></script>
+
+    <script type="text/javascript" src="/signalr/hubs"></script>
+
+    <script src="/bundles/jqueryval?v=zch5K1zREXU1mT8_2y2t-mr_qIWZu4dP9hRULINFo0c1"></script>
+<script src="/scripts/jsresources/loadBlocker"></script>
+<script src="/Scripts/loadBlocker.js"></script>
+<script src="/Scripts/isUserLoggedIn.js"></script>
+<script src="/bundles/myCctv?v=tn_QrMgLLcGpYspqRQHul_hZeJZ_vSW8BPB1ksj0yc01"></script>
+<script type="text/javascript">
+
+            // show the cms if it's not empty
+            if ($("#Map_Index_RoutePlannerDescription > div").contents().length > 0) {
+                $("#statusBar").show();
+            }
+
+            // make the cms available when admins are editing
+            $(document).on('ckeditorCms-enableAdminCms', function () {
+                $("#statusBar").show();
+            });
+        </script>
+<script type="text/javascript">
+
+                  $(document).ready(function () {
+                      //toggle My Cameras
+                      $("#MyCamToggleBtn").on("click", function () {
+                          $("#MyCamToggleBtn i").toggleClass('fa-minus-circle fa-plus-circle');
+                          $(document).trigger("myCamClickToggled");
+                          window.DisplayMyCameras();
+                      });
+
+                      //init the slick carousel
+                      $('.cameraCarousel').slick({
+                          dots: true,
+                          arrows: true,
+                          autoplay: true,
+                          autoplaySpeed: 10000,
+                          infinite:false
+                      });
+
+                      //Keep track of the current interval id so we can delete it when it's not needed.
+                      var slickIntervalId;
+
+                      var setUpImageSlide = function (slick, slideId) {
+                          if (slick.$slides.length > 0) {
+                              var img = $('img', $(slick.$slides.get(slideId)));
+
+                              //populate title
+                              var title = img.data('title');
+                              if (title) {
+                                  $("#myCameraTitle").text(title);
+                                  var id = img.data('id');
+                                  $("#myCameraLocation").show();
+                                  $("#myCameraLocation").attr('href', '#camera-' + id);
+                              } else {
+                                  $("#myCameraLocation").hide();
+                              }
+                              img.attr('src', URI(img.data('url')).hash(new Date().getTime()));
+
+                              //set up image refresh interval
+                              var refreshRateMs = img.data('refresh-rate');
+                              if (refreshRateMs > 0) {
+                                  slickIntervalId = setInterval(function(carouselId) {
+                                      var imgObj = $('#' + carouselId);
+                                      imgObj.attr('src', URI(imgObj.data('url')).hash(new Date().getTime()));
+                                  }, refreshRateMs, img.attr('id'));
+                              } else {
+                                  if (typeof Bugsnag !== "undefined") {
+                                      Bugsnag.notify("Undefined refreshRateMs", "Happened in setUpImageSlide()", { html: $('<div/>').append(img.clone()).html() });
+                                  }
+                              }
+                        }
+                      }
+
+                      // On before slide change
+                      $('.cameraCarousel').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+                          clearInterval(slickIntervalId);
+                          setUpImageSlide(slick, nextSlide);
+                      });
+
+                      //Initial load
+                      $(document).on('cameraCarouselLoaded', function () {
+                          var slick = $('.cameraCarousel').slick('getSlick');
+                          var slide = slick.currentSlide;
+                          clearInterval(slickIntervalId);
+                          $(document).trigger('playCameraCarousel');
+                      });
+
+                      $(document).on('pauseCameraCarousel', function () {
+                          var slick = $('.cameraCarousel').slick('getSlick');
+                          slick.slickPause();
+                          clearInterval(slickIntervalId);
+                      });
+
+                      $(document).on('playCameraCarousel', function () {
+                          var slick = $('.cameraCarousel').slick('getSlick');
+                          slick.slickPlay();
+                          var slide = slick.currentSlide;
+                          clearInterval(slickIntervalId);
+                          setUpImageSlide(slick, slide);
+                      });
+
+                      //get cameras
+                      window.DisplayMyCameras();
+                  });
+              </script>
+<script type="text/javascript">
+
+            var switchToAlerts = true;
+
+            $(document).ready(function () {
+                var isTabSelected = $("ul.nav-tabs > li").hasClass("active");
+                if (!isTabSelected) {
+                    $("#MainTabs a[href='#MyRoutes']").tab("show");
+                }
+
+                $("#MainTabs a").click(function (e) {
+                    e.preventDefault();
+                    $(this).tab('show');
+                    if ($(this).attr("href") == '#MyRoutes') {
+                        //get cameras
+                        window.DisplayMyCameras();
+                    }
+                });
+
+                // store the currently selected tab in hash value
+                $("ul.nav-tabs > li > a").on("shown.bs.tab", function (e) {
+                    var id = $(e.target).attr("href").substr(1);
+                    // added : so the screen doesn't jump when you click on a tab.
+                    window.location.hash = ":" + id;
+                });
+
+                // on load of page: switch to the currenlty selected tab, using replace so the hash works
+                var hash = window.location.hash.replace(':', '');
+
+                // setting width of the Twitter widget
+                setTimeout(function () {
+                    $('.twitter-timeline').each(function () {
+                        var head = $(this).contents().find('head');
+                        if (head.length) {
+                            head.append('<style type="text/css">.timeline { max-width: 100% !important; } </style>');
+                        }
+                    });
+                }, 1000);
+
+                // returns -1 if "route" doesn't exist
+                var isRoute = hash.toLowerCase().indexOf("route");
+                var isCamera = hash.toLowerCase().indexOf("camera");
+                var isTransitRegion = hash.toLowerCase().indexOf("transitregion");
+                if (isRoute < 0 && isCamera < 0 && isTransitRegion < 0) {
+                    switchToAlerts = true;
+                } else {
+                    // show My Route tab when clicking on View on the Manage My Routes/Alerts page
+                    switchToAlerts = false;
+                    if (!$("#RoutesTab").hasClass("active")) {
+                        $("#RoutesTab > a").trigger("click");
+                        var hashFiltered = window.location.hash.replace(':', '');
+                        var firstPos = hash.lastIndexOf('#');
+                        var lastPos = hash.length;
+                        hash = firstPos === 0 ? hash : hash.substring(firstPos, lastPos);
+
+                        if (hashFiltered.toLowerCase() !== hash) {
+                            window.location.hash += hash;
+                        }
+                    }
+                }
+                adjustHeight();
+                OrganizeRouting();
+            });
+
+            $(window).resize(function () {
+                adjustHeight();
+                OrganizeRouting();
+            });
+
+            $(window).on("orientationchange", function () {
+                OrganizeRouting();
+                //large screen and landscape view
+                if (Modernizr.mq('(min-width: 993px)') && window.orientation !== 0) {
+                    var isMyCamCollapsed = $.cookie("myCamCollapsed") === "true";
+                    if (isMyCamCollapsed) {
+                        $("#MyCamToggleBtn").trigger("click");
+                        $.removeCookie("myCamCollapsed", { path: "/" });
+                    }
+                    adjustHeight();
+                } else {
+                    // always show My Cameras on small screen
+                    if ($("#MyCamToggleBtn i").hasClass("fa-plus-circle")) {
+                        $("#MyCamToggleBtn").trigger("click");
+                        $.cookie("myCamCollapsed", "true", { path: "/" });
+                    }
+                    // set height to auto
+                    $(".tab-pane.active").css("height", "auto");
+                }
+            });
+
+            $(document).on("click", '.showHide', function (e) {
+                e.preventDefault();
+
+                var text = 'Hide Details';
+                if ($(this).hasClass('collapsed')) {
+                    text = 'Show Details';
+                }
+                $(this).text(text);
+            });
+
+            $(document).on('contentFiltered', function() {
+                GetAlertContent(switchToAlerts);
+                switchToAlerts = false;
+            });
+
+            function GetAlertContent(setAsActiveTab) {
+                var alertExists = false;
+                var alertMsg = $("#Map_Index_AlertMsg");
+                if (alertMsg != undefined && alertMsg.children().length > 0) {
+                    alertMsg.children().each(function(idx, child) {
+                        var childText = $(child).html();
+                        var isAlertMsg = childText.replace(/\s/g, '');
+                        if ($(child).css('display') != 'none' && isAlertMsg && isAlertMsg.length > 0) alertExists = true;
+                    });
+
+                    if (alertExists) {
+                        $(".defaultAlertMsg").hide();
+                        if (!$("#AlertsTab").hasClass("active") && setAsActiveTab) {
+                            $("#AlertsTab > a").trigger("click");
+                        }
+                    } else {
+                        $(".defaultAlertMsg").show();
+                    }
+                } else {
+                    $(".defaultAlertMsg").show();
+                }
+            }
+
+            // adjust height when My Cameras collapses
+            $(document).on("myCamClickToggled", function() {
+                var cameras = $('.myCameras.collapse').hasClass('in');
+                if (cameras === true) {
+                    $("#MyCamerasSlideshow").removeClass("in");
+                    $(document).trigger("pauseCameraCarousel");
+                } else {
+                    $("#MyCamerasSlideshow").addClass("in");
+                    $(document).trigger("playCameraCarousel");
+                }
+
+                adjustHeight();
+            });
+
+            $(document).on("fullScreenMapMode", function() {
+                var fullScreen = true;
+                if ($(".navbar").is(":visible")) {
+                    fullScreen = false;
+                }
+                adjustHeight(fullScreen);
+            });
+
+            function adjustHeight(fullScreen) {
+                var mapHeightHundredPercentEnable = false;
+                var padding = 20;
+                if (mapHeightHundredPercentEnable) {
+                        var minMobileMapHeight = 400;
+                        var mainContainer = $(".mainContainer");
+                        var mapColContainer = $(".mapColContainer");
+                        var mapCanvas = $("#map-canvas");
+                        var modifiedMapHeight = GetModifiedMapHeight(fullScreen);
+                        if (Modernizr.mq('(min-width: 993px)')) {
+                            mapCanvas.css({ "height": "100%"});
+                            mapColContainer.css({ "height": "100%"});
+                            mainContainer.css({ "height": modifiedMapHeight + "px"});
+                            adjustLegendHeight(modifiedMapHeight);
+                            var routeResultHeight = (modifiedMapHeight - $("#MainTabs").outerHeight() - padding) + "px";
+                            $(".tab-content:first").css({ "max-height": routeResultHeight, "overflow-x": "hidden", "overflow-y": "auto" });
+                        } else {
+                        if (modifiedMapHeight > minMobileMapHeight) {
+                            $(".mapColContainer, #map-canvas").css({ "height": modifiedMapHeight + "px" });
+
+                        } else {
+                            $(".mapColContainer, #map-canvas").css({ "height": minMobileMapHeight + "px" });
+                        }
+                        mainContainer.css({ "height": "auto" });
+                        }
+                       $(document).trigger("MapResize");
+                } else {
+                    padding = 40;
+                    if (Modernizr.mq('(min-width: 993px)')) {
+                        var mapHeight = $(".mapPage .map-container").outerHeight();
+                        var height = (mapHeight - $("#MainTabs").outerHeight() - padding) + "px";
+                        $("#MyRoutes").css({ "max-height": height, "padding-bottom": "15px" });
+                    } else {
+                        $(".tab-pane.active:first-child").css("max-height", "none");
+                    }
+                }   
+                var myCamSlideShow = $("#MyCamerasSlideshow");
+                if (Modernizr.mq('(min-width: 993px)')) {
+                    if (!myCamSlideShow.hasClass("collapse")) {
+                        myCamSlideShow.addClass("collapse");
+                    }
+                }else{
+                    if(myCamSlideShow.hasClass("collapse")) {
+                        myCamSlideShow.removeClass("collapse");
+                    }
+                }
+            }
+            function GetModifiedMapHeight(fullScreen) {
+                var initMapHeight = $(window).outerHeight();
+                var navScrollBarHeight = fullScreen === true ? 0 : $(".topBanner").outerHeight();
+                return initMapHeight - navScrollBarHeight;
+            }
+
+            function adjustLegendHeight(modifiedMapHeight) {
+                var legendBtnPad = $(".legend-toggle").outerHeight() + 10;                      
+                var legendHeightToUse = modifiedMapHeight - (legendBtnPad + 10);
+                $(".layerSelection").css({ "max-height": legendHeightToUse + "px", "overflow-y": "auto", "width": "250px" });
+            }
+            function OrganizeRouting() {
+                if (Modernizr.mq('(min-width: 993px)')) {
+                    $('#routingResults').appendTo($('#routingInput'));
+                }
+                else {
+                    $('#routingResults').appendTo($('#mobileRoutingResults'));
+                }
+            }
+        </script>
+
+<script type="text/javascript">
+            $(function () {
+                var loginType = 'modal';
+
+                $("#loginForm" + loginType).submit(function (e) {
+                    e.preventDefault();
+                    loadBlockerApi.showSpinner('loginForm');
+
+                    $.ajax('/My511/Login', {
+                        data: $("#loginForm" + loginType).serialize(),
+                        type: 'POST',
+                        //we are doing this so that if we are already logged in and get redirected to My511/Index, instead of thinking we received json, the ajax call fails and reloads the page
+                        dataType: 'json',
+                        beforeSend: function (event, xhr, settings, thrownError) {
+                            if (window.isUserLoggedIn(event.responseText)) {
+                                xhr.abort()
+                            }
+                        }
+                    }).done(function (data) {
+                        if (!data.success) {
+                            loadBlockerApi.hideSpinner('loginForm');
+                            $("#validationSummary" + loginType + " > ul > li").text(data.errors);
+                            $("#validationSummary" + loginType).show();
+                        } else {
+                            $("#validationSummary" + loginType).hide();
+                            if (data.returnUrl) {
+                                $(location).attr('href', data.returnUrl);
+                            } else {
+                                location.reload();
+                            }
+                        }
+                    }).fail(function (event, xhr, settings, thrownError) {
+                        location.reload();
+                    });
+                });
+
+                // if already on login page, don't display login modal when clicking on login link
+                $('#loginModalDialog').on('show.bs.modal', function () {
+                    var url = document.location.pathname;
+                    var name = url.substring(url.lastIndexOf('/') + 1);
+                    if (name.toLowerCase() === 'login') {
+                        return false;
+                    }
+                    return true;
+                });
+
+                $('#loginModalDialog').on('shown.bs.modal', function () {
+                    $('#Email').focus();
+                });
+
+                function iOSversion() {
+                    if (/iP(hone|od|ad)/.test(navigator.platform)) {
+                        // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
+                        var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+                        return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+                    }
+                }
+
+                if (Modernizr.mq('(max-width: 768px)') && false == true) {
+                    var ver = iOSversion();
+                    if (ver != undefined && ver[0] >= 11) {
+                        $("#loginModalDialog.modal").css("position", "absolute");
+                    }
+                }
+            });
+        </script>
+
+    <script src="/scripts/jsresources/alerts"></script>
+<script type="text/javascript">
+    $(function () {
+        var isNavFixedTop = $("nav").hasClass("navbar-fixed-top");
+        if (isNavFixedTop) {
+            fixNav();
+        }
+        reSizeLogo();
+
+        $(window).resize(function () {
+            clearTimeout(window.resizedFinished);
+            window.resizedFinished = setTimeout(function () {
+                reSizeLogo();
+                if (isNavFixedTop) {
+                    if (Modernizr && Modernizr.mq('(min-width: 767px)')) {
+                        fixNav();
+                    }
+                }
+            }, 250);
+        });
+    });
+
+    $(document).on("click", '#addCameraButton', function() {
+        window.AddMyCameraEvent();
+    });
+
+    function reSizeLogo() {
+        if(Modernizr){
+            if (Modernizr.mq('(max-width: 992px)')) {
+                $(".navBar").addClass("mobile");
+            } else {
+                if ($(".navBar").hasClass("mobile")) {
+                    $(".navBar").removeClass("mobile");
+                }
+            }
+        }
+    }
+
+    function fixNav() {
+        var isNavIn2Row = $("nav").height() > 60;
+        if (isNavIn2Row) {
+            $(".navbar-fixed-top").addClass("forceMobileMode");
+        } else {
+            $(".navbar-fixed-top").removeClass("forceMobileMode");
+            if ($("nav").height() > 60) {
+                $(".navbar-fixed-top").addClass("forceMobileMode");
+            }
+        }
+    }
+
+    //display the popup on click. Get the content from the div
+    $(".emergencyPopupNotification").on("click", function(event) {
+        var content = $(".emergencyPopupNotification").attr("data-alert");
+        if (content) {
+            bootbox.dialog({
+                title: '<i style="padding-right: 5px;" class="fa fa-exclamation-triangle"></i> ' + 'Emergency Alert'.toUpperCase(),
+                onEscape: true,
+                className: 'emergencyAlertModal',
+                message: content
+            });
+        }
+    });
+
+    // collapse footer menu in mobile mode
+    if (Modernizr.mq('(max-width: 992px)')) {
+        $(".footer .subMenu").hide();
+        // remove disabled class from footer menu
+        $(".footer .navbar-nav > li a.disabled").removeClass("disabled");
+        var hasSubMenu = $(".footer .navbar-nav > li:has('ul')");
+        if (hasSubMenu) {
+            hasSubMenu.on("click", function(evt) {
+                var subMenuItems = $(".footer ul.subMenu > li");
+                subMenuItems.click(function() {
+                    $(subMenuItems, this).data("clicked", true);
+                });
+                // toggle footer menu, if submenu clicked then behave normal
+                if (subMenuItems.data('clicked') == undefined) {
+                    evt.preventDefault();
+                    var subMenuClicked = $("ul.subMenu", this);
+                    if (subMenuClicked.is(":hidden")) {
+                        subMenuClicked.slideDown();
+                    } else {
+                        subMenuClicked.slideUp();
+                    }
+                }
+            });
+        }
+        $(window).on("orientationchange", function() {
+            var isHidden = $(".footer .subMenu").is(":hidden");
+            if (!isHidden) {
+                $(".footer .subMenu").hide();
+            }
+            window.forceAlertRefresh();
+        });
+    }
+</script>
+    
+    
+    
+<script src="/scripts/jsresources/map/map"></script>
+<script src="/bundles/map?v=TD_ewKJF_eXZL_4oltNUDhfKzpuxcgdS7M8E2HDEvU41"></script>
+
+
+<script type="text/javascript">
+    var initMap = function() {
+        var options = JSON.parse('{\"RoutingModel\":{\"AutoCompleteCountryCode\":\"US\",\"MapBottomLeftBounds\":{\"Latitude\":42.486771,\"Longitude\":-92.851542,\"Altitude\":\"NaN\",\"HorizontalAccuracy\":\"NaN\",\"VerticalAccuracy\":\"NaN\",\"Speed\":\"NaN\",\"Course\":\"NaN\",\"IsUnknown\":false},\"MapTopRightBounds\":{\"Latitude\":47.291011,\"Longitude\":-86.087353,\"Altitude\":\"NaN\",\"HorizontalAccuracy\":\"NaN\",\"VerticalAccuracy\":\"NaN\",\"Speed\":\"NaN\",\"Course\":\"NaN\",\"IsUnknown\":false}},\"ClustererModel\":{\"MaximumZoom\":11,\"MinimumClusterSize\":15,\"GridSize\":null},\"DefaultZoom\":9,\"MapCenter\":{\"Latitude\":44.5,\"Longitude\":-90.0,\"Altitude\":\"NaN\",\"HorizontalAccuracy\":\"NaN\",\"VerticalAccuracy\":\"NaN\",\"Speed\":\"NaN\",\"Course\":\"NaN\",\"IsUnknown\":false},\"MapTypeId\":\"roadmap\",\"IconUrl\":\"/map/mapIcons/{0}\",\"UserIconUrl\":\"/my511/mapIcons/{0}\",\"SelectedLayers\":[\"TrafficSpeeds\",\"Incidents\"],\"DisplayControls\":true}');
+
+        //Handle URL parameters
+        if (GetURLParameter("Zoom")) options.DefaultZoom = parseInt(GetURLParameter("Zoom"));
+        if (GetURLParameter("Latitude")) options.MapCenter.Latitude = parseFloat(GetURLParameter("Latitude"));
+        if (GetURLParameter("Longitude")) options.MapCenter.Longitude = parseFloat(GetURLParameter("Longitude"));
+        if (GetURLParameter("SelectedLayers")) options.SelectedLayers = GetURLParameter("SelectedLayers").split(',').map(function(layer) { return layer.trim() });
+
+        options.isMapHeightHundredPercentEnable = false;
+
+        //init the map. pass a callback function.
+        $mapping.init(options, function() {
+            //do nothing.
+        });
+
+        if (false === true) {
+            //GetModifiedMapHeight function is in IndexTabbed.cshtml
+            var modifiedMapHeight = GetModifiedMapHeight(false);
+            $("#content, .pageDown, #map-canvas").css("height", "100%");
+            if (Modernizr.mq('(min-width: 993px)')) {
+                $(".mainContainer").css("height", modifiedMapHeight + "px");
+            } else {
+                $(".mainContainer").css("height", "auto");
+            }
+        }
+    }
+
+
+    function GetURLParameter(name) {
+        var pageURL = window.location.search.substring(1);
+        var urlVariables = pageURL.split('&');
+        for (var i = 0; i < urlVariables.length; i++) {
+            var parameterName = urlVariables[i].split('=');
+            if (parameterName[0].toLocaleLowerCase() == name.toLocaleLowerCase()) {
+                return parameterName[1];
+            }
+        }
+        return null;
+    };
+</script>
+
+<script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.30&amp;key=AIzaSyB5QrJro1RI98LnRXGZAkfmIvhOe0fKNP8&amp;language=en&amp;libraries=geometry,places&amp;callback=initMap"></script>
+
+
+
+    <script src="/bundles/ajaxCms?v=S2AIW3vfvvB9W0nL_o14j1pr_6qaiq-8uFy53T0KkvU1"></script>
+<script src="/bundles/regionContentFilter?v=jLSh7IMcNOPq6fmNptV01Gz4h1K_KhWSP2txJwR0ucc1"></script>
+<script src="/bundles/helpPopup?v=9jd_MWorLWn1LirK6DZyZ22unJlvkZ8wTDDrnbH4tTw1"></script>
+
+    <script type="text/javascript">
+    //Creating a global variable which will indicate whether the page is being unloaded or not.
+    var globalVars = { isBeingUnloaded: false, tickerInterval: 4000, dateFormat: 'M/D/YYYY h:mm A', timeFormat: 'h:mm A', canCreateEvents: '' };
+    //Attach the 'beforeunload' event handler on the window object.
+    $(window).bind('beforeunload', function() {
+        //Set the global variable to indicate that the page is being unloaded.
+        globalVars.isBeingUnloaded = true;
+    });
+
+    //For some reason we occasionally fail at parsing : decodeURIComponent(settings.data), return a blob if it doesn't work
+    function tryJsonParse(text) {
+        var result;
+        try {
+            result = JSON.parse('{"' +
+                text
+                .replace(/\+/g, ' ')
+                .replace(/"/g, '\\"')
+                .replace(/&/g, '","')
+                .replace(/=/g, '":"') +
+                '"}');
+        } catch (e) {
+            result = encodeURI(text);
+        }
+        return result;
+    }
+
+    //global ajax error handler.
+    $(document).ajaxError(function(event, xhr, settings, thrownError) {
+        //don't log an error if the page is being unloaded because a user closed the window or click another link.
+        if (globalVars.isBeingUnloaded || thrownError == 'timeout' || xhr.statusText === 'abort' || xhr.status === 0) {
+            return;
+        }
+        if (console) {
+            //sometimes these errors are swallowed and not seen on dev, make sure we show it
+            console.log(settings, thrownError);
+        }
+        var responseText = "html page not included";
+        if (!xhr.responseText) {
+            responseText = "no response";
+        }
+        if (xhr.responseText && xhr.responseText.substring(0, 15) != "<!DOCTYPE html>") responseText = xhr.responseText;
+        if (typeof Bugsnag !== "undefined") {
+            var dataPackage = settings.data ? tryJsonParse(decodeURIComponent(settings.data)) : {};
+            delete dataPackage["password"];
+            delete dataPackage["Password"];
+            Bugsnag.notify("AjaxError", thrownError + " " + settings.url.split("?")[0], { ajaxData: { status: xhr.status, responseText: responseText, url: settings.url, type: settings.type, data: dataPackage } });
+        }
+    });
+
+    $(document).ready(function() {
+        if (typeof Bugsnag !== "undefined") {
+            Bugsnag.apiKey = '4e42be053e9039f5d56486d80db58455';
+            Bugsnag.releaseStage = 'Prod';
+            Bugsnag.notifyReleaseStages = ["Staging", "Prod"];
+        }
+    });
+
+    </script>
+</body>
+</html>
